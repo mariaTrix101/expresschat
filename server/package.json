@@ -1,0 +1,17 @@
+{
+    "name": "expresschat",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "Trixia Principe (100041319)",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mongoose": "^5.9.5",
+        "socket.io": "^2.3.0"
+    }
+}
